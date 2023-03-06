@@ -1,4 +1,4 @@
-# Face-Detection-and-Recognition-for-Automatic-Attendance-Sytem
+# Face-Detection-and-Recognition-for-Automatic-Attendance-System
 This project is about the Face Detection and Face Recognition using OpenCV libraries where it will recognize the face of a person and marks his/her attendance.
 
 Step by step procedure
